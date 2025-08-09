@@ -1,0 +1,188 @@
+
+PHP Full Syllabus – Step by Step (From Beginner to 2+ Years Experience Level)
+
+====================================================
+1. PHP Basics
+====================================================
+- Introduction to PHP
+- PHP Syntax, Tags, and Code Structure
+- Echo, Print, and Comments
+- Variables and Constants
+- Data Types (String, Integer, Float, Boolean, Array, Object, NULL)
+- String Manipulation Functions
+- Operators (Arithmetic, Assignment, Comparison, Logical, Increment/Decrement)
+- Type Casting
+
+====================================================
+2. Control Structures
+====================================================
+- if, if-else, if-elseif-else
+- switch-case
+- Loops (while, do-while, for, foreach)
+- break and continue
+
+====================================================
+3. Functions
+====================================================
+- Defining and Calling Functions
+- Function Parameters (Default, Optional, Named arguments)
+- Return Values
+- Variable Scope (Local, Global, Static)
+- Anonymous Functions & Closures
+- Recursion
+
+====================================================
+4. Arrays
+====================================================
+- Indexed Arrays
+- Associative Arrays
+- Multidimensional Arrays
+- Array Functions (sort, asort, ksort, array_merge, array_diff, etc.)
+- Array Iteration (foreach, for, while)
+
+====================================================
+5. Forms and User Input
+====================================================
+- HTML Forms with PHP
+- $_GET and $_POST Superglobals
+- $_REQUEST
+- Form Validation (Client & Server Side)
+- Sanitization and Escaping
+- File Upload Handling
+
+====================================================
+6. PHP with HTML, CSS, and JavaScript
+====================================================
+- Embedding PHP inside HTML
+- PHP to generate dynamic HTML
+- Passing data to JavaScript from PHP
+- Using PHP with AJAX requests
+
+====================================================
+7. Working with Files
+====================================================
+- Reading and Writing Files
+- File Handling Functions (fopen, fread, fwrite, fclose, file_get_contents, file_put_contents)
+- File Permissions
+- File Uploads and Downloads
+
+====================================================
+8. Date and Time
+====================================================
+- date(), time()
+- DateTime Class
+- Timezones
+- Formatting Dates
+
+====================================================
+9. Error and Exception Handling
+====================================================
+- PHP Error Levels
+- try-catch-finally
+- Custom Exceptions
+- Error Logging
+
+====================================================
+10. PHP Sessions and Cookies
+====================================================
+- Creating and Managing Sessions
+- Storing User Data in Session
+- Cookies Creation, Retrieval, and Deletion
+
+====================================================
+11. PHP and MySQL (Procedural + PDO + MySQLi)
+====================================================
+- Connecting to Database
+- SELECT, INSERT, UPDATE, DELETE Queries
+- Prepared Statements
+- Fetching Data
+- Transactions
+- Database Error Handling
+
+====================================================
+12. PHP OOP (Object-Oriented Programming)
+====================================================
+- Classes and Objects
+- Properties and Methods
+- Constructors and Destructors
+- Inheritance
+- Access Modifiers (public, private, protected)
+- Static Methods & Properties
+- Abstract Classes
+- Interfaces
+- Traits
+- Namespaces
+- Method Overriding & Overloading
+- Type Hinting & Return Types
+
+====================================================
+13. Advanced PHP OOP Concepts
+====================================================
+- Magic Methods (__construct, __destruct, __get, __set, __call, __toString, __invoke)
+- Late Static Binding
+- Dependency Injection
+- Object Cloning
+- Final Classes & Methods
+
+====================================================
+14. PHP with JSON and APIs
+====================================================
+- JSON Encoding and Decoding
+- Consuming REST APIs with PHP (cURL & file_get_contents)
+- Building REST APIs in PHP
+- Authentication in APIs (Basic Auth, Token, JWT)
+
+====================================================
+15. PHP Security Best Practices
+====================================================
+- SQL Injection Prevention
+- XSS Prevention
+- CSRF Prevention
+- Password Hashing and Verification
+- HTTPS and Secure Cookies
+- Input Validation
+
+====================================================
+16. Composer and Autoloading
+====================================================
+- Installing and Using Composer
+- PSR Standards
+- Autoloading Classes
+
+====================================================
+17. PHP Frameworks (Laravel Basics)
+====================================================
+- Laravel Installation
+- MVC Structure
+- Routing
+- Controllers & Views
+- Blade Templates
+- Eloquent ORM
+- Middleware
+- Form Validation
+- Authentication & Authorization
+- REST API with Laravel
+
+====================================================
+18. PHP Testing
+====================================================
+- PHPUnit Basics
+- Writing Unit Tests
+- Mocking
+
+====================================================
+19. Project Work
+====================================================
+- Blog Application (CRUD + Authentication)
+- E-commerce Mini Project
+- API Development Project
+- Real-time Chat App with PHP and WebSockets
+
+====================================================
+20. Deployment and Optimization
+====================================================
+- Hosting PHP Apps
+- Using cPanel / VPS Deployment
+- Caching (OPcache, Redis)
+- Performance Optimization
+- Debugging (Xdebug)
